@@ -1,0 +1,8 @@
+Main_app.py
+main.py
+setup.py
+ui_UI_codesprint.py
+CodeSprint_RecogNice.egg-info/PKG-INFO
+CodeSprint_RecogNice.egg-info/SOURCES.txt
+CodeSprint_RecogNice.egg-info/dependency_links.txt
+CodeSprint_RecogNice.egg-info/top_level.txt

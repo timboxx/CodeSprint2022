@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: CodeSprint-RecogNice
+Version: 0.0.0
+Summary: APIs used are AWS Rekognition, requires credentialing as access keys aren't being shared. Collects images for face recognition, face analysis, text to speech.
+Home-page: UNKNOWN
+Author: tim
+Author-email: timmyx51@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+
+UNKNOWN
+
